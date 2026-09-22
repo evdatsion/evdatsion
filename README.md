@@ -16,7 +16,7 @@ Most of my time goes into architecture and R&D: consensus and node design, key m
 
 Since 2019 the team at Magnus Mage has taken blockchain and AI platforms from research to production for clients in Pakistan, the UAE and beyond. That includes several L1 mainnets launched from scratch (Libonomy, Haidrun, CreataChain among them), consensus engines, node clients, wallets and explorers, plus AI systems for fraud detection and data pipelines.
 
-A lot of the early chain work was built on Tendermint and the Cosmos SDK. The forks pinned below are from that period.
+A lot of the early chain work was built on Tendermint and the Cosmos SDK. The Libonomy node and AI engine repos pinned below are from that period.
 
 ---
 
